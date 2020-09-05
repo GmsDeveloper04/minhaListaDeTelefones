@@ -1,2 +1,4 @@
 # minhaListaDeTelefones
-Projeto destinado ao estudo de angular js
+
+<h5>Descrição</h5>
+Projeto destinado ao estudo de angularJS criando um aplicativo de lista de telefones
